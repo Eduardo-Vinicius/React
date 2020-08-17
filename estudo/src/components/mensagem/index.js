@@ -5,7 +5,7 @@ import './ninja.css'
 export default function Mensagem(){
     return (
         <div className = "bora-codar">
-            Bora ser ninjaaa
+            FALA QUE VAI SER 20 PF
         </div>
     );
 }

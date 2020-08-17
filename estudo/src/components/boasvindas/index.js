@@ -6,7 +6,7 @@ export default function BoasVindas() {
 
     return (
         <div>
-            <h1 className ="boas-vindas">Sejam todos bem vindos!</h1>   
+            <h1 className ="boas-vindas">Vamos ter quantos filhos mesmo?</h1>   
             <Mensagem />
         </div>
     );
